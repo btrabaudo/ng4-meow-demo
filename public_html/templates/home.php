@@ -1,3 +1,5 @@
+<navbar></navbar>
+
 <main class="bg p-t-nav">
     <div class="container">
         <div class="row">
@@ -10,3 +12,5 @@
         </div>
     </div>
 </main>
+
+<meow-footer></meow-footer>
